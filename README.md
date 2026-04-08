@@ -1,4 +1,4 @@
-# Hi there, I'm Verry (Verryzone) 👋
+# Hi Boyyy, I'm Verryzone 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Verryzone&label=Profile%20views&color=0e75b6&style=flat" alt="Verryzone" />
