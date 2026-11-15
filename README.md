@@ -18,50 +18,37 @@
 
 ---
 
-## <img src="https://api.iconify.design/tabler/user-code.svg?color=%230e75b6" width="24" height="24" /> About Me
+## About Me
 
 I'm a **Full-stack Developer** and **Automation Enthusiast**. I bridge the gap between complex backend logic and intuitive frontend design, with a passion for building automated systems that improve efficiency.
 
-<img src="https://api.iconify.design/tabler/target-arrow.svg?color=%230e75b6" width="18" height="18" /> **Focus** &nbsp;·&nbsp; Enhancing my Web Ecosystem & Automation projects<br>
-<img src="https://api.iconify.design/tabler/book-2.svg?color=%230e75b6" width="18" height="18" /> **Learning** &nbsp;·&nbsp; Advanced TypeScript, Scalable Backends, Mobile Performance<br>
-<img src="https://api.iconify.design/tabler/robot.svg?color=%230e75b6" width="18" height="18" /> **Fun fact** &nbsp;·&nbsp; I love building bots to simplify daily digital tasks
+- **Focus:** Enhancing my Web Ecosystem & Automation projects
+- **Learning:** Advanced TypeScript, Scalable Backends, Mobile Performance
+- **Fun fact:** I love building bots to simplify daily digital tasks
 
 ---
 
-## <img src="https://api.iconify.design/tabler/tools.svg?color=%230e75b6" width="24" height="24" /> Tech Stack
+## Tech Stack
 
-**<img src="https://api.iconify.design/tabler/device-desktop.svg?color=%230e75b6" width="18" height="18" /> Frontend & Mobile**
+**Frontend & Mobile**
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,tailwind,bootstrap,flutter,dart&perline=11" alt="frontend" />
 
-**<img src="https://api.iconify.design/tabler/server-2.svg?color=%230e75b6" width="18" height="18" /> Backend & Database**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,mysql,postgres,prisma,firebase,supabase&perline=9" alt="backend" />
 
-**<img src="https://api.iconify.design/tabler/brand-git.svg?color=%230e75b6" width="18" height="18" /> DevTools & Design**
+**DevTools & Design**
 
 <img src="https://skillicons.dev/icons?i=git,docker,vercel,nginx,photoshop&perline=5" alt="tools" />
 
 ---
 
-## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%230e75b6" width="24" height="24" /> GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Verryzone&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verryzone&theme=radical&layout=compact&hide_border=true" height="170" alt="Top Languages" />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Verryzone&theme=radical&hide_border=true" alt="Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verryzone&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
----
-
-## <img src="https://api.iconify.design/tabler/route.svg?color=%230e75b6" width="24" height="24" /> Contribution Snake
 
 <p align="center">
   <picture>
@@ -75,8 +62,6 @@ I'm a **Full-stack Developer** and **Automation Enthusiast**. I bridge the gap b
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-  <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=Verryzone&icon=0&color=0" alt="Visitor Count" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
